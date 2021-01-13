@@ -1,0 +1,82 @@
+
+
+body {
+	margin:0px;
+	padding:0px;
+  background-image: url(background.jpg);
+ background-size: 100% auto;
+}
+
+.top-content {
+
+width:100%;
+height:700px;
+background-color:Black;
+opacity: 0.5;
+
+
+}
+
+.header{
+position:absolute; 
+	top:0;
+
+color:White;
+font-size:50px;
+
+}
+
+.header1{
+position:absolute; /* добавили */
+	top:0; /* добавили */
+
+color:White;
+font-size:25px;
+left: 10px;
+    padding: 200px 0 0;
+    text-align: center;
+}
+
+
+
+	.top-content {
+	left: 10px;
+    padding: 200px 0 0;
+    text-align: center;
+}
+ 
+
+
+
+	
+footer {
+     position: fixed;
+    bottom: 0;
+    left: 0;
+height:50px;
+width:100%;
+	opacity: 0.2;
+background-color:Black;
+color:White;
+}
+
+
+
+	
+	.button	{
+	
+	outline: none; /* Для синий ободки */
+  border: 0;
+  background: transparent;
+cursor: pointer;
+font-size: 35px;
+font-family:  sans-serif;
+color: #1E90FF;
+}
+		.button:hover {
+	color: #8B008B;
+	background-color:White;
+	opacity:0.09;
+	width:100%;
+	height:50px;
+	}
