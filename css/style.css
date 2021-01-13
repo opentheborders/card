@@ -1,12 +1,15 @@
 
 
 body {
-	margin:0px;
+		margin:0px;
 	padding:0px;
   background-image: url(background.jpg);
- background-size: 100% auto;
-	background-repeat: no-repeat;
-	background-size: cover;
+ 
+background-repeat: no-repeat;
+background-size: cover;
+ackground-position: center center; 
+background-attachment: fixed; 
+ background-color: #464646;
 }
 
 .top-content {
