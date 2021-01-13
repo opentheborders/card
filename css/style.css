@@ -1,10 +1,10 @@
 
 
 body {
-		margin:0px;
+	margin:0px;
 	padding:0px;
   background-image: url(background.jpg);
- 
+ background-size: 100% auto;
 background-repeat: no-repeat;
 background-size: cover;
 ackground-position: center center; 
@@ -15,8 +15,22 @@ background-attachment: fixed;
 .top-content {
 
 
+}
+
+
+.div_content{
+
+	top:0;
+display: inline-block;
+ 
+    margin: 10px;
+    padding: 45px 0 0;
+   
+
+
 
 }
+
 
 .header{
 position:absolute; 
@@ -28,8 +42,8 @@ font-size:50px;
 }
 
 .header1{
-position:absolute; /* äîáàâèëè */
-	top:0; /* äîáàâèëè */
+position:absolute; /* добавили */
+	top:0; /* добавили */
 
 color:White;
 font-size:25px;
@@ -64,7 +78,6 @@ color:White;
 
 
 	
-
 		.button	{
 	
 	outline: none; /* Aey neiee iaiaee */
@@ -83,4 +96,3 @@ color: #696969;
 	width:100%;
 	height:50px;
 	}
-
