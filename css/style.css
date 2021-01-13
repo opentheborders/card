@@ -5,6 +5,7 @@ body {
 	padding:0px;
   background-image: url(background.jpg);
  background-size: 100% auto;
+	background-repeat: no-repeat;
 }
 
 .top-content {
@@ -27,8 +28,8 @@ font-size:50px;
 }
 
 .header1{
-position:absolute; /* добавили */
-	top:0; /* добавили */
+position:absolute; /* Г¤Г®ГЎГ ГўГЁГ«ГЁ */
+	top:0; /* Г¤Г®ГЎГ ГўГЁГ«ГЁ */
 
 color:White;
 font-size:25px;
@@ -65,7 +66,7 @@ color:White;
 	
 	.button	{
 	
-	outline: none; /* Для синий ободки */
+	outline: none; /* Г„Г«Гї Г±ГЁГ­ГЁГ© Г®ГЎГ®Г¤ГЄГЁ */
   border: 0;
   background: transparent;
 cursor: pointer;
