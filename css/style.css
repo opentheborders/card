@@ -27,10 +27,13 @@ display: inline-block;
     padding: 45px 0 0;
    
 
-
-
 }
+.div_content1{
 
+	top:0;
+
+   
+}
 
 .header{
 position:absolute; 
@@ -42,7 +45,7 @@ font-size:50px;
 }
 
 .header1{
-position:absolute; /* добавили */
+position:fixed; /* добавили */
 	top:0; /* добавили */
 
 color:White;
@@ -76,7 +79,10 @@ color:White;
 }
 
 
-
+#quote{
+margin:100px;
+top:800px;
+}
 	
 		.button	{
 	
