@@ -25,7 +25,7 @@ background-attachment: fixed;
  
     margin: 10px;
     padding: 40px 0 0;
-   
+   display: inline-block
 
 }
 .div_content1{
@@ -48,7 +48,7 @@ font-size:40px;
 position:absulute; /* добавили */
 	top:0; /* добавили */
 
-color: #696969;
+color: White;
 font-size:25px;
 left: 10px;
     padding: 100px 0 0;
